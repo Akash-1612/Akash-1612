@@ -9,15 +9,15 @@
 
 - 🤝 I’m looking for help with **Nothing. 😎**
 
-- 👨‍💻 All of my projects are available at [I'll tell you when I find it myself.](I'll tell you when I find it myself.)
+- 👨‍💻 All of my projects are available at **I'll tell you when I find it myself.**
 
-- 📝 I regularly write articles on [World history.]
+- 📝 I regularly write articles on **World history.**
 
 - 💬 Ask me about **What I think of constellations.**
 
 - 📫 How to reach me **Please don't. 😁**
 
-- 📄 Know about my experiences [Umm, people have experiences?](Umm, people have experiences?)
+- 📄 Know about my experiences **Umm, people have experiences?**
 
 - ⚡ Fun fact **The universe is 13.8 billion years old, yet you still don't have any bitch*s.**
 
