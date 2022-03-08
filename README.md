@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [I'll tell you when I find it myself.](I'll tell you when I find it myself.)
 
-- 📝 I regularly write articles on [World history.](World history.)
+- 📝 I regularly write articles on [World history.]
 
 - 💬 Ask me about **What I think of constellations.**
 
