@@ -3,19 +3,17 @@
 
 - 🔭 I’m currently working on **probably nothing.**
 
-- 🌱 I’m currently learning **How to walk.**
+- 🌱 I’m currently learning **How to sleep and eat at the same time.**
 
 - 👯 I’m looking to collaborate on **Whatever I can get my hands on.**
 
-- 🤝 I’m looking for help with **Nothing. 😎**
+- 🤝 I’m looking for help with **my ongoing existential crisis.**
 
-- 👨‍💻 All of my projects are available at **I'll tell you when I find it myself.**
-
-- 📝 I regularly write articles on **World history.**
+- 👨‍💻 All of my projects are available at **somewhere secluded I beleive.**
 
 - 💬 Ask me about **What I think of constellations.**
 
-- 📫 How to reach me **Please don't. 😁**
+- 📫 How to reach me **Why would anyone want to reach me 🤨**
 
 - 📄 Know about my experiences **Umm, people have experiences?**
 
