@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akash</h1>
 <h3 align="center">A guy you've never heard of</h3>
 
-- 🔭 I’m currently working on **probably nothing.**
+- 🔭 I’m currently working on **a group mobile app project.**
 
 - 🌱 I’m currently learning **How to sleep and eat at the same time.**
 
@@ -9,13 +9,11 @@
 
 - 🤝 I’m looking for help with **my ongoing existential crisis.**
 
-- 👨‍💻 All of my projects are available at **somewhere secluded I beleive.**
+- 👨‍💻 All of my projects are available at **an under construction site (any time now)**
 
 - 💬 Ask me about **What I think of constellations.**
 
-- 📫 How to reach me **Why would anyone want to reach me 🤨**
-
-- 📄 Know about my experiences **Umm, people have experiences?**
+- 📫 How to reach me **probably E-mail.**
 
 - ⚡ Fun fact **The universe is 13.8 billion years old, yet you still don't have any bitch*s.**
 
