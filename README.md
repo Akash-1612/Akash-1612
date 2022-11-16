@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **How to sleep and eat at the same time.**
 
-- 👯 I’m looking to collaborate on **Whatever I can get my hands on.**
+- 👯 I’m looking to collaborate on **Anything with Flutter involved.**
 
 - 🤝 I’m looking for help with **my ongoing existential crisis.**
 
@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **What I think of constellations.**
 
-- 📫 How to reach me **probably E-mail.**
+- 📫 How to reach me **probably E-mail; ya38071@gmail.com**
 
 - ⚡ Fun fact **The universe is 13.8 billion years old, yet you still don't have any bitch*s.**
 
