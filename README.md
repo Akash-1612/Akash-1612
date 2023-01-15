@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Akash</h1>
 <h3 align="center">A guy you've never heard of</h3>
 
-- 🔭 I’m currently working on **a group mobile app project.**
+- 🔭 I’m currently working on **a Mobile app project.**
 
-- 🌱 I’m currently learning **How to sleep and eat at the same time.**
+- 🌱 I’m currently learning **How to sleep and eat at the same time, oh & also Flutter.**
 
-- 👯 I’m looking to collaborate on **Anything with Flutter involved.**
+- 👯 I’m looking to collaborate on **Anything with Flutter or Java involved.**
 
 - 🤝 I’m looking for help with **my ongoing existential crisis.**
 
@@ -14,8 +14,6 @@
 - 💬 Ask me about **What I think of constellations.**
 
 - 📫 How to reach me **probably E-mail; ya38071@gmail.com**
-
-- ⚡ Fun fact **The universe is 13.8 billion years old, yet you still don't have any bitch*s.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
