@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akash</h1>
 <h3 align="center">A guy you've never heard of</h3>
 
-- 🔭 I’m currently working on **a Mobile app project.**
+- 🔭 I’m currently working on **React Web App.**
 
 - 🌱 I’m currently learning **How to sleep and eat at the same time, oh & also Flutter.**
 
