@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Akash</h1>
 <h3 align="center">A guy you've never heard of</h3>
 
-- 🔭 I’m currently working on **React Web App.**
+- 🔭 I’m currently working on **A app that might see the face of sun**
 
-- 🌱 I’m currently learning **How to sleep and eat at the same time, oh & also Flutter.**
+- 🌱 I’m currently learning **How to sleep and eat at the same time, oh & also Springboot.**
 
-- 👯 I’m looking to collaborate on **Anything with Flutter or Java involved.**
+- 👯 I’m looking to collaborate on **Anything with Java involved.**
 
 - 🤝 I’m looking for help with **my ongoing existential crisis.**
 
